@@ -1,0 +1,9 @@
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1.Tests\bin\Debug\UnitTestingDemoPart1.Tests.dll
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1.Tests\bin\Debug\UnitTestingDemoPart1.Tests.pdb
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1.Tests\bin\Debug\Rhino.Mocks.dll
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1.Tests\bin\Debug\UnitTestingDemoPart1.exe
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1.Tests\bin\Debug\UnitTestingDemoPart1.pdb
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1.Tests\bin\Debug\Rhino.Mocks.xml
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1.Tests\obj\Debug\UnitTestingDemoPart1.Tests.csprojResolveAssemblyReference.cache
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1.Tests\obj\Debug\UnitTestingDemoPart1.Tests.dll
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1.Tests\obj\Debug\UnitTestingDemoPart1.Tests.pdb

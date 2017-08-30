@@ -1,0 +1,6 @@
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1\bin\Debug\UnitTestingDemoPart1.exe.config
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1\obj\Debug\UnitTestingDemoPart1.csprojResolveAssemblyReference.cache
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1\bin\Debug\UnitTestingDemoPart1.exe
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1\bin\Debug\UnitTestingDemoPart1.pdb
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1\obj\Debug\UnitTestingDemoPart1.exe
+c:\users\wilfredo.r.duazo.jr\documents\visual studio 2013\Projects\UnitTestingDemoPart1\UnitTestingDemoPart1\obj\Debug\UnitTestingDemoPart1.pdb
