@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>pubm</Title>
+      <Author>Wilfredo R. Duazo Jr.</Author>
+      <Description>Code snippet for an automatically implemented C# public method</Description>
+      <HelpUrl></HelpUrl>
+      <SnippetTypes />
+      <Keywords />
+      <Shortcut>pubm</Shortcut>
+    </Header>
+    <Snippet>
+      <References />
+      <Imports />
+      <Declarations>
+        <Literal Editable="true">
+          <ID>name</ID>
+          <Type></Type>
+          <ToolTip>Public Method</ToolTip>
+          <Default>MethodName</Default>
+          <Function></Function>
+        </Literal>        
+      </Declarations>
+      <Code Language="csharp" Kind="method decl" Delimiter="$"><![CDATA[
+      public void $name$()
+      {
+        $end$
+      }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+    
+</CodeSnippets>

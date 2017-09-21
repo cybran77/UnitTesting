@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>uti</Title>
+      <Author>Wilfredo R. Duazo Jr.</Author>
+      <Description>Code snippet for an automatically implemented unit test initialize method</Description>
+      <HelpUrl></HelpUrl>
+      <SnippetTypes />
+      <Keywords />
+      <Shortcut>uti</Shortcut>
+    </Header>
+    <Snippet>
+      <References />
+      <Imports />
+      <Declarations>
+        <Literal Editable="true">
+          <ID>init</ID>
+          <Type></Type>
+          <ToolTip>Name initialize method</ToolTip>
+          <Default>Initialize</Default>
+          <Function></Function>
+        </Literal>        
+      </Declarations>
+      <Code Language="csharp" Kind="method decl" Delimiter="$"><![CDATA[[TestInitialize]
+public void $init$()
+{
+	$end$
+}]]></Code>
+    </Snippet>
+  </CodeSnippet>
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>utc</Title>
+      <Author>Wilfredo R. Duazo Jr.</Author>
+      <Description>Code snippet for an automatically implemented unit test cleanup method</Description>
+      <HelpUrl></HelpUrl>
+      <SnippetTypes />
+      <Keywords />
+      <Shortcut>utc</Shortcut>
+    </Header>
+    <Snippet>
+      <References />
+      <Imports />
+      <Declarations>
+        <Literal Editable="true">
+          <ID>clean</ID>
+          <Type></Type>
+          <ToolTip>Name cleanup method</ToolTip>
+          <Default>Cleanup</Default>
+          <Function></Function>
+        </Literal>        
+      </Declarations>
+      <Code Language="csharp" Kind="method decl" Delimiter="$"><![CDATA[[TestCleanup]
+public void $clean$()
+{
+	$end$
+}]]></Code>
+    </Snippet>
+  </CodeSnippet> 
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>ut</Title>
+      <Author>Rusty Divine</Author>
+      <Description>Code snippet for an automatically implemented unit test template with 3 parts</Description>
+      <HelpUrl>https://msdn.microsoft.com/en-us/library/ms165394.aspx</HelpUrl>
+      <SnippetTypes />
+      <Keywords />
+      <Shortcut>ut</Shortcut>
+    </Header>
+    <Snippet>
+      <References />
+      <Imports />
+      <Declarations>
+        <Literal Editable="true">
+          <ID>uow</ID>
+          <Type></Type>
+          <ToolTip>Name of the unit of work or scenario under test</ToolTip>
+          <Default>UoW</Default>
+          <Function></Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>initialcondition</ID>
+          <Type></Type>
+          <ToolTip></ToolTip>
+          <Default>InitialCondition</Default>
+          <Function></Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>expectedresult</ID>
+          <Type></Type>
+          <ToolTip>What your expected result is</ToolTip>
+          <Default>ExpectedResult</Default>
+          <Function></Function>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp" Kind="method decl" Delimiter="$"><![CDATA[[TestMethod]
+public void $uow$_$initialcondition$_$expectedresult$()
+{
+	//Arrange
+	$end$
+
+	//Act
+
+
+	//Assert
+
+}]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
